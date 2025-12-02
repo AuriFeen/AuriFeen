@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am just starting out coding**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[https://github.com/AuriFeen]</h3>
 <p align="left">
 </p>
 
