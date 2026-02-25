@@ -14,7 +14,7 @@
 
 ### 🛰️ Current Mission Control
 * **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C++ networking architecture.
-* **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries.
+* **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries for Goldberg on Linux and free DRM.
 * **Learning**: Kernel concepts, memory management, and why the GPLv3 is superior.
 
 ---
@@ -23,12 +23,6 @@
 > "Software is like sex: it's better when it's free." — *Linus Torvalds*
 
 I believe in **User Freedom** and **Open Architecture**. I’m building in public because the best way to learn is to have your code torn apart by people smarter than you.
-
----
-
-### 🐾 Vital Signs & Stats
-![Auri's Stats](https://github-readme-stats.vercel.app/api?username=AuriFeen&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuriFeen&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
