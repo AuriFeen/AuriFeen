@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Auri Feen</h1>
-<h3 align="center">A passionate developer/architecture designer from Greece</h3>
+# 🏛️ Auri Feen
+**Systems Enthusiast | Low-Level Developer | Open Source Advocate**
 
-- 🔭 I’m currently working on [TChat](https://github.com/AuriFeen/TChat)
+15-year-old self-taught developer from Greece. I don't just write code; I study how it talks to the machine. Heavily inspired by the philosophies of **Linus Torvalds** and **Richard Stallman**.
 
-- 🌱 I’m currently learning **frameworks,networking architecture**
+---
 
-- 👯 I’m looking to collaborate on [https://github.com/AuriFeen/TChat](https://github.com/AuriFeen/TChat)
+### 🛠️ The Tech Stack (Lower is Better)
+* **Systems:** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=black)
+* **Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **Environment:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-- 🤝 I’m looking for help with [https://github.com/AuriFeen/TChat](https://github.com/AuriFeen/TChat)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/AuriFeen/](https://github.com/AuriFeen/)
+### 🛰️ Current Mission Control
+* **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C++ networking architecture.
+* **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries.
+* **Learning**: Kernel concepts, memory management, and why the GPLv3 is superior.
 
-- 📫 How to reach me **kotsakesthodores@gmail.com**
+---
 
-- ⚡ Fun fact **I am just starting out coding**
+### 🐧 Philosophy & Contribution
+> "Software is like sex: it's better when it's free." — *Linus Torvalds*
 
-<h3 align="left">Connect with me:[https://github.com/AuriFeen]</h3>
-<p align="left">
-</p>
+I believe in **User Freedom** and **Open Architecture**. I’m building in public because the best way to learn is to have your code torn apart by people smarter than you.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🐾 Vital Signs & Stats
+![Auri's Stats](https://github-readme-stats.vercel.app/api?username=AuriFeen&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuriFeen&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📬 Reach Out
+* **Email:** [kotsakesthodores@gmail.com](mailto:kotsakesthodores@gmail.com)
+* **Discord:** `auri_feen` *(or wherever you hang out)*
 
