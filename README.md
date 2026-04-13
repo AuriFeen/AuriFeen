@@ -28,5 +28,5 @@ I believe in **User Freedom** and **Open Architecture**. I’m building in publi
 
 ### 📬 Reach Out
 * **Email:** [kotsakesthodores@gmail.com](mailto:kotsakesthodores@gmail.com)
-* **Discord:** `auri_feen` *(or wherever you hang out)*
+* **Discord:** `auri_feen`
 
