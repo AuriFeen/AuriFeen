@@ -1,7 +1,7 @@
 # 🏛️ Auri Feen
 **Systems Enthusiast | Low-Level Developer | Open Source Advocate**
 
-15-year-old self-taught developer from Greece. I don't just write code; I study how it talks to the machine. Heavily inspired by the philosophies of **Linus Torvalds** and **Richard Stallman**.
+16-year-old self-taught developer from Greece. I don't just write code; I study how it talks to the machine. Heavily inspired by the philosophies of **Linus Torvalds** and **Richard Stallman**.
 
 ---
 
