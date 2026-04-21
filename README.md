@@ -1,7 +1,7 @@
 # 🏛️ Auri Feen
 **Systems Enthusiast | Low-Level Developer | Open Source Advocate**
 
-16-year-old self-taught developer from Greece. I don't just write code; I study how it talks to the machine. Heavily inspired by the philosophies of **Linus Torvalds** and **Richard Stallman**.
+16-year-old self-taught developer from Greece. I don't just write code; I study how it talks to the machine. Heavily inspired by the philosophies of **Linus Torvalds**.
 
 ---
 
@@ -15,8 +15,7 @@
 ### 🛰️ Current Mission Control
 * **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C++ networking architecture.
 * **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries for Goldberg on Linux and free DRM.
-* **Learning**: Kernel concepts, memory management, and why the GPLv3 is superior.
-
+* **Learning**: Kernel concepts, memory management, core C and more.
 ---
 
 ### 🐧 Philosophy & Contribution
