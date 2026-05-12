@@ -13,7 +13,7 @@
 ---
 
 ### 🛰️ Current Mission Control
-* **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C++ networking architecture.
+* **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C networking architecture.
 * **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries for Goldberg on Linux and free DRM.
 * **Learning**: Kernel concepts, memory management, core C and more.
 ---
