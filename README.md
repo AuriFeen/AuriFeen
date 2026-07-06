@@ -14,7 +14,7 @@
 
 ### 🛰️ Current Mission Control
 * **[TChat](https://github.com/AuriFeen/TChat)**: Deep-diving into socket programming and C networking architecture.
-* **[GOGify](https://github.com/AuriFeen/GOGify)**: Automating the bridge between Python and gaming libraries for Goldberg on Linux and free DRM.
+* **[RepairSch](https://github.com/AuriFeen/RepairSch)**: Automating SMS handling via API handling without twilio and bridging python with HMTL, as aformentioned it's just a piece of software I made for my dad.
 * **Learning**: Kernel concepts, memory management, core C and more.
 ---
 
